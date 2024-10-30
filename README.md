@@ -92,5 +92,9 @@ Hi, I'm **Muhammad Ahmed**, a Cybersecurity enthusiast with a passion for **Ethi
 ---
 
 
-### 📊 Weekly Coding Breakdown
+### 📊 Awards and Certifications
+- AWS CLOUD PRACTITIONER
+- FRONT END DEVELOPMENT
+- USF GREEN AND GOLD PRESIDENTIAL SCHOLARSHIP
+
 
