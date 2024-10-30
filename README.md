@@ -32,7 +32,7 @@ Hi, I'm **Muhammad Ahmed**, a Cybersecurity enthusiast with a passion for **Ethi
 
 - 🔭 I’m working on **Cyber Threat Hunting with SIEM** using log analysis, anomaly detection, and threat hunting.
 - 🌱 Currently learning **cloud services** and preparing for **CEH**.
-- 💬 Ask me about **API design**, **backend development**, and **cloud integration**.
+- 💬 Ask me about **Ethical Hacking**, **backend development**, and **cloud integration**.
 - 📫 Reach me at [syedahmedasif4@gmail.com](mailto:syedahmedasif4@gmail.com).
 
 ---
